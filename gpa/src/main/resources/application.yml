@@ -1,0 +1,9 @@
+server:
+  port: 2333
+spring:
+  application:
+    name: sdut-gpa
+logging:
+  level:
+    ROOT: info
+    ero.hentai.sdut.gpa: debug
